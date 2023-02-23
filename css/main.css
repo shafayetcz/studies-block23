@@ -27,6 +27,13 @@
 
 
 
+.st {
+     padding: 1rem;
+    border-radius: 10rem;
+    color: white;
+    margin-left: 5px;
+    background-color: green;
+}
 
 /*//////////////////////////////////////////////////////////////////
 [ RESTYLE TAG ]*/
@@ -475,7 +482,6 @@ iframe {
     padding: 55px 15px 37px 15px;
   }
 }
-
 
 
 /*------------------------------------------------------------------
