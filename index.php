@@ -26,6 +26,7 @@
 	<link rel="stylesheet" type="text/css" href="css/util.css">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 <!--===============================================================================================-->
+
 </head>
 <body>
 	
@@ -65,6 +66,9 @@
 						<button type="submit" class="login100-form-btn" name="submit">
 							Login
 						</button>
+						<a> <button  class=" st" >
+							Registration
+						</button></a>
 					</div>
 
 					<div class="text-center p-t-90">
