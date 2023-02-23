@@ -2793,7 +2793,17 @@
 	align-items: flex-end;
 	justify-content: center;
 }
+.st {
+    padding: 1rem;
+    font-family: 'Poppins-Regular';
+    font-style: italic;
+    border-radius: 10rem;
+    color: white;
+    margin-left: 5px;
+    background-color: green;
+    
 
+}
 .flex-col-c-m {
 	display: -webkit-box;
 	display: -webkit-flex;
